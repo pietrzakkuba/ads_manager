@@ -1,0 +1,34 @@
+﻿  Obiektowy.cpp
+c:\users\trexe\desktop\obiektowy 1.01\obiektowy\obiektowy.cpp(140): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  c:\users\trexe\desktop\obiektowy 1.01\obiektowy\obiektowy.cpp(136): note: while compiling class template member function 'T poprawnosc<T>::check(T,T)'
+          with
+          [
+              T=double
+          ]
+  c:\users\trexe\desktop\obiektowy 1.01\obiektowy\obiektowy.cpp(746): note: see reference to function template instantiation 'T poprawnosc<T>::check(T,T)' being compiled
+          with
+          [
+              T=double
+          ]
+  c:\users\trexe\desktop\obiektowy 1.01\obiektowy\obiektowy.cpp(154): note: see reference to class template instantiation 'poprawnosc<double>' being compiled
+c:\users\trexe\desktop\obiektowy 1.01\obiektowy\obiektowy.cpp(144): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  c:\users\trexe\desktop\obiektowy 1.01\obiektowy\obiektowy.cpp(136): note: while compiling class template member function 'T poprawnosc<T>::check(T,T)'
+          with
+          [
+              T=int
+          ]
+  c:\users\trexe\desktop\obiektowy 1.01\obiektowy\obiektowy.cpp(303): note: see reference to function template instantiation 'T poprawnosc<T>::check(T,T)' being compiled
+          with
+          [
+              T=int
+          ]
+  c:\users\trexe\desktop\obiektowy 1.01\obiektowy\obiektowy.cpp(153): note: see reference to class template instantiation 'poprawnosc<int>' being compiled
+  Obiektowy.vcxproj -> C:\Users\trexe\Desktop\Obiektowy 1.01\Debug\Obiektowy.exe
